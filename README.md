@@ -31,18 +31,11 @@ The program uses basic file handling techniques in DOS, including reading from a
 
 ## How to Run
 
-1. Ensure that you have **DOSBox** installed.
-2. Compile the `fh.asm` file using **TASM**.
-3. Launch the program within DOSBox by running the compiled executable.
-4. Follow the on-screen instructions to perform file operations.
+1. Ensure that you have **DOSBox** and **Tasm** installed.
+2.tasm fh.asm
+3.tlink fh.obj
+4.fh.exe
 
-## Demo
-
-You can watch a short demo of the project in action [here](link_to_video).
-
-## License
-
-This project is open-source and available under the MIT License.
 
 ## Acknowledgments
 
