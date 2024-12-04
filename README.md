@@ -32,9 +32,9 @@ The program uses basic file handling techniques in DOS, including reading from a
 ## How to Run
 
 1. Ensure that you have **DOSBox** and **Tasm** installed.
-2.tasm fh.asm
-3.tlink fh.obj
-4.fh.exe
+2. tasm fh.asm
+3. tlink fh.obj
+4. fh.exe
 
 
 ## Acknowledgments
